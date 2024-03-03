@@ -1,2 +1,7 @@
 # OAP_Lab
-Labs OAP
+
+Completed laboratory work.
+
+by student, 
+
+Davydov Vitaliy
